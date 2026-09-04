@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/boni-bharath/LeetCode1/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [2057-smallest-index-with-equal-value](https://github.com/boni-bharath/LeetCode1/tree/master/2057-smallest-index-with-equal-value) |
 <!---LeetCode Topics End-->
