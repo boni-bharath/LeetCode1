@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/boni-bharath/LeetCode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/boni-bharath/LeetCode1/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/boni-bharath/LeetCode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/boni-bharath/LeetCode1/tree/master/0240-search-a-2d-matrix-ii) |
 | [2057-smallest-index-with-equal-value](https://github.com/boni-bharath/LeetCode1/tree/master/2057-smallest-index-with-equal-value) |
 ## Binary Search
