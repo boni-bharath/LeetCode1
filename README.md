@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/boni-bharath/LeetCode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/boni-bharath/LeetCode1/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/boni-bharath/LeetCode1/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/boni-bharath/LeetCode1/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/boni-bharath/LeetCode1/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/boni-bharath/LeetCode1/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/boni-bharath/LeetCode1/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/boni-bharath/LeetCode1/tree/master/0283-move-zeroes) |
 | [2057-smallest-index-with-equal-value](https://github.com/boni-bharath/LeetCode1/tree/master/2057-smallest-index-with-equal-value) |
 ## Binary Search
 |  |
