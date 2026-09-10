@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/boni-bharath/LeetCode1/tree/master/0344-reverse-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/boni-bharath/LeetCode1/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Array
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/boni-bharath/LeetCode1/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/boni-bharath/LeetCode1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/boni-bharath/LeetCode1/tree/master/0283-move-zeroes) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/boni-bharath/LeetCode1/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2057-smallest-index-with-equal-value](https://github.com/boni-bharath/LeetCode1/tree/master/2057-smallest-index-with-equal-value) |
 ## Binary Search
 |  |
