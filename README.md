@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/boni-bharath/LeetCode1/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/boni-bharath/LeetCode1/tree/master/0344-reverse-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/boni-bharath/LeetCode1/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Array
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/boni-bharath/LeetCode1/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/boni-bharath/LeetCode1/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/boni-bharath/LeetCode1/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
